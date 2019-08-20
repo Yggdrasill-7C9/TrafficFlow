@@ -12,7 +12,9 @@
 
 ## 安装
 
-`npm i trafficflow`
+```shell
+npm i trafficflow
+```
 
 ## 使用
 
