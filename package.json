@@ -1,16 +1,21 @@
 {
-  "name": "vizceral-vue-demo",
+  "name": "traffic-flow",
+  "description": "WebGL visualization for displaying micro service animated traffic graphs",
+  "author": "Yggdrasill-7C9",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build --target lib --name traffic-flow src/index.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "lodash": "^4.17.15",
+    "vizceral": "^4.9.0",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.3"
+    "vue-router": "^3.0.3",
+    "webfontloader": "^1.6.28"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.10.0",
