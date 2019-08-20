@@ -3,6 +3,8 @@
   "description": "WebGL visualization for displaying micro service animated traffic graphs",
   "author": "Yggdrasill-7C9",
   "version": "0.1.0",
+  "repository": "https://github.com/Yggdrasill-7C9/TrafficFlow",
+  "main": "dist/traffic-flow.umd.min.js",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
