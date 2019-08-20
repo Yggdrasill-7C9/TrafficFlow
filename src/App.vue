@@ -29,7 +29,7 @@ export default {
       this.currentView = []
     },
     setView (value) {
-      console.log('view 改变', value)
+      console.log('viewChanged', value)
       this.currentView = value
     }
   }
