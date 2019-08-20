@@ -2,6 +2,14 @@
 
 > 基于 [vizceral ](https://github.com/Netflix/vizceral) 封装的微服务可视化组件。
 
+![](https://raw.githubusercontent.com/Yggdrasill-7C9/TrafficFlow/master/github/1.png)
+
+![](https://raw.githubusercontent.com/Yggdrasill-7C9/TrafficFlow/master/github/2.png)
+
+![](https://raw.githubusercontent.com/Yggdrasill-7C9/TrafficFlow/master/github/3.png)
+
+![](https://raw.githubusercontent.com/Yggdrasill-7C9/TrafficFlow/master/github/4.png)
+
 ## 安装
 
 `npm i trafficflow`
