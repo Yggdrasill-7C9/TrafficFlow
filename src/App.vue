@@ -2,7 +2,7 @@
   <div id="app">
     <button @click="setHomeView">Home</button>
     <TrafficFlow
-      :traffic="trafficSampleSimple"
+      :traffic="trafficSample"
       :view="currentView"
       :allow-dragging-of-nodes="true"
       :show-labels="false"
